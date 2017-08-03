@@ -1,4 +1,4 @@
 # hello-world
 starter repository
 
-just starting to sue github.
+just starting to use github.
